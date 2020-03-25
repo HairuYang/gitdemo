@@ -41,3 +41,5 @@ if num == sum:
     print(num, "是阿姆斯特朗数")
 else:
     print(num, "不是阿姆斯特朗数")
+
+#第二个用户修改部分，加入本注释。
